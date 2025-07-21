@@ -1,4 +1,4 @@
-# Lisensi Non-Komersial Pribadi
+# Lisensi Komersial (Pribadi)
 
 **Hak Cipta (c) 2025 ewinz**
 
@@ -7,7 +7,7 @@ Izin ini diberikan kepada individu yang ditunjuk langsung oleh pengembang, berda
 - digunakan secara pribadi,  
 - disalin, dimodifikasi, atau digabungkan,  
 - **tanpa diterbitkan atau didistribusikan kepada pihak lain**,  
-- **khusus untuk keperluan pribadi dan produksi non-komersial**,  
+- **khusus untuk keperluan pribadi dan produksi komersial**,  
 
 dengan **syarat dan ketentuan berikut**:
 
